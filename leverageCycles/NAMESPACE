@@ -1,0 +1,3 @@
+useDynLib(leverageCycles)
+exportPattern("^[[:alpha:]]+")
+importFrom(Rcpp, evalCpp)
