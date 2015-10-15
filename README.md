@@ -7,7 +7,8 @@ Mac OSX Requirements:
 
 - R
 - Rcpp (R package for integration with c++)
-- C++ compile
+- R package ggplot2
+- C++ compiler
 
 R package installation instructions:
 
